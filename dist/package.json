@@ -1,9 +1,9 @@
 {
   "name": "naeem-testing-lib",
-  "version": "1.0.0",
+  "version": "1.0.2",
   "description": "A utility library for array operations with TypeScript support",
   "main": "lib/es5/index.js",
-  "types": "es5/index.d.ts",
+  "types": "lib/es5/index.d.ts",
   "module": "lib/es6/index.js",
   "sideEffects": false,
   "repository": {
